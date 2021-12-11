@@ -1,4 +1,6 @@
-### Hi there 👋 
+![header](https://user-images.githubusercontent.com/68729701/145677013-24742c22-39df-4475-b53c-66963aad3b9f.png)
+
+![HitCount](https://komarev.com/ghpvc/?username=resist15&style=flat-round&color=ff3232&label=PROFILE+HITS)
 ### This is Sourav Jagtap !
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/resist15)
