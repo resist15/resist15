@@ -15,10 +15,11 @@ Welcome to my Github page! I am Sourav and I am currently finishing my IT Engine
 - Finishing my IT Engineering
 - Taking online courses about Ethical Hacking And Web Development  
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+#### :muscle: Things I am entertaining myself with:
+- HackTheBox
+- Web Development
+- Distro Hopping
+- Android Custom ROM Development
 
 #### :computer: Programming languages and tools: 
 <p>
