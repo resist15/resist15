@@ -1,35 +1,3 @@
-![header](https://user-images.githubusercontent.com/68729701/145677013-24742c22-39df-4475-b53c-66963aad3b9f.png)
-
-![HitCount](https://komarev.com/ghpvc/?username=resist15&style=flat-round&color=ff3232&label=PROFILE+HITS)
-### This is Sourav Jagtap !
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/resist15)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souravhjagtap21@gmail.com)
-
-Welcome to my Github page! I am Sourav and I am currently finishing my IT Engineering Degree !  
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
-#### 🌱 Things I am currently working on: 
-- Finishing my IT Engineering
-- Taking online courses about Ethical Hacking And Web Development  
-
-#### :muscle: Things I am entertaining myself with:
-- HackTheBox
-- Web Development
-- Distro Hopping
-- Android Custom ROM Development
-
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=resist15&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=resist15&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true" />
+</a>
