@@ -10,16 +10,14 @@
 ````bash
 > help --info
 > A potterhead who mainly programs in Python and has recently ventured out into Networking. Is
-> trying out ML to see what all the fuss is about and he might actually ❤ it. Likes solving problems 
-> on hackerrank and Likes Solving CTFs
-> DEFCON love
+> trying out ML to see what all the fuss is about and he might actually ❤ it. 
 > Currently an undergrad@TCOER batch of '21 studying Bachelor of engineering in Information Technology
 ````
 
 ````bash
 > help --contact
 > telegram: @xyz_sourav
-> instagram: xyz.sourav
+> instagram: @xyz.sourav
 > github: resist15
-> mailto: sourav [at] project404.xyz
+> mailto: sourav [at] aospa.co
 ````
